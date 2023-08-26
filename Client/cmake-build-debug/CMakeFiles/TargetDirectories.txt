@@ -1,0 +1,3 @@
+/users/studs/bsc/2022/komashg/Desktop/316593912_321759417/Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/users/studs/bsc/2022/komashg/Desktop/316593912_321759417/Client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/users/studs/bsc/2022/komashg/Desktop/316593912_321759417/Client/cmake-build-debug/CMakeFiles/ass3_new2.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -lboost_system -lboost_thread -pthread -g CMakeFiles/ass3_new2.dir/src/echoClient.cpp.o CMakeFiles/ass3_new2.dir/src/connectionHandler.cpp.o CMakeFiles/ass3_new2.dir/src/serverWriter.cpp.o -o ass3_new2  /usr/lib/x86_64-linux-gnu/libboost_system.so 

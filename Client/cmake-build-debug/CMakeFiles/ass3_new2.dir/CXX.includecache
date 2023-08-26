@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/users/studs/bsc/2022/komashg/Desktop/316593912_321759417/Client/src/connectionHandler.cpp
+/users/studs/bsc/2022/komashg/Desktop/AVODA/Client/include/connectionHandler.h
+-
+
+/users/studs/bsc/2022/komashg/Desktop/316593912_321759417/Client/src/echoClient.cpp
+stdlib.h
+-
+/users/studs/bsc/2022/komashg/Desktop/AVODA/Client/include/connectionHandler.h
+-
+thread
+/users/studs/bsc/2022/komashg/Desktop/316593912_321759417/Client/src/thread
+/users/studs/bsc/2022/komashg/Desktop/AVODA/Client/include/serverWriter.h
+-
+
+/users/studs/bsc/2022/komashg/Desktop/316593912_321759417/Client/src/serverWriter.cpp
+/users/studs/bsc/2022/komashg/Desktop/AVODA/Client/include/connectionHandler.h
+-
+/users/studs/bsc/2022/komashg/Desktop/AVODA/Client/include/serverWriter.h
+-
+boost/algorithm/string.hpp
+-
+
+/users/studs/bsc/2022/komashg/Desktop/AVODA/Client/include/connectionHandler.h
+string
+-
+iostream
+-
+boost/asio.hpp
+-
+
+/users/studs/bsc/2022/komashg/Desktop/AVODA/Client/include/serverWriter.h
+connectionHandler.h
+/users/studs/bsc/2022/komashg/Desktop/AVODA/Client/include/connectionHandler.h
+boost/algorithm/string.hpp
+-
+boost/asio.hpp
+-
+
